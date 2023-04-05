@@ -14,7 +14,7 @@ https://brian-autieri.github.io/weather-dashboard/
 
 ### Webpage Screenshot
 
-![alt text](/assets/weather-dashboard.png)
+![alt text](weather-dashboard.png)
 
 ## Credits
 
